@@ -1,4 +1,4 @@
-stackerForm
+stackerAJAX
 ========
 
 Progressively enhanced fork of [Thinkful-Ed/stackerAJAX](https://github.com/Thinkful-Ed/stackerAJAX).
@@ -6,7 +6,7 @@ Progressively enhanced fork of [Thinkful-Ed/stackerAJAX](https://github.com/Thin
 ## Preview
 Have a look at the synchronous and asynchronous endpoints in&nbsp;action.  
 
-![](http://j4p.us/0E243Q2G0r3z/stackerform.gif)
+![](http://j4p.us/0E243Q2G0r3z/stackerAJAX.gif)
 
 ## Getting Started
 
@@ -25,12 +25,12 @@ if you swing that way. Easy-peasy.
 First, clone a copy of this git repo by running:
 
 ```bash
-git clone -b grunt git@github.com:jpdevries/stackerForm.git
+git clone -b grunt git@github.com:jpdevries/stackerAJAX.git
 ```
 
-Then cd into the `stackerForm` folder and install the Node&nbsp;dependencies:
+Then cd into the `stackerAJAX` folder and install the Node&nbsp;dependencies:
 ```bash
-cd stackerForm
+cd stackerAJAX
 npm install
 ```
 
